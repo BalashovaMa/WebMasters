@@ -1,1 +1,1 @@
-https://balashovama.github.io/WebMastersApp/
+https://balashovama.github.io/WebMasters
