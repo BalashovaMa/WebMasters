@@ -37,3 +37,6 @@
     background-color: rgba(76, 0, 255, 0.5);
     bottom: initial;
 }
+.card {
+    margin: 50px;
+}
