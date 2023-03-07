@@ -38,3 +38,18 @@
 .card {
     margin: 50px;
 }
+footer {
+    background-color: #4c00ff;
+    margin-top: 50px;
+    color: white;
+    padding: 3%;
+}
+.fa-brands {
+    color: white;
+    font-size: 30px;
+    padding: 10px;
+    transition: all 0.3s;
+}
+.fa-brands:hover {
+    color: #d6cdcd;
+}
